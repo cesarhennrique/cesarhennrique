@@ -22,7 +22,7 @@ Em breve, estarei publicando tudo por aqui.
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 26 anos e atualmente moro em Recife/PE.
+  - 💬 Tenho 29 anos e atualmente moro em Recife/PE.
     
   - 📚 Gosto muito de aprender! No tempo livre, aproveito para ler livros, praticar esportes, assistir filmes. Acredito que nossos interesses pessoais enriquecem nossa visão de mundo e nossa capacidade de resolver problemas de forma criativa. \o/
 </details>
