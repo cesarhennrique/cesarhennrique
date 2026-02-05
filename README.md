@@ -67,15 +67,11 @@ Sou disciplinado, proativo e estou sempre buscando aprender, melhorar e entregar
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_EXATO&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" 
-  />
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_EXATO&layout=compact&theme=tokyonight&cache_seconds=86400" 
-  />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cesarhennrique&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cesarhennrique&layout=compact&theme=tokyonight" />
 </p>
+
+
 
 
 ---
