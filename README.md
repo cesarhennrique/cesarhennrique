@@ -1,59 +1,84 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
+# Olá 👋, eu sou Cesar Henrique
 
-<!-- Presentation -->
-<p>
-  Olá 👋, eu sou o Cesar!
-Um estudante apaixonado por tecnologia e desenvolvimento de software.
+🚀 **Desenvolvedor Full Stack**  
 
-🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas, Cursando o progama NeXT do CESAR SCHOOL,  e me aprofundando em Front-End e Back-End.
+Sou um profissional em **transição de carreira para tecnologia**, trazendo comigo **mais de 7 anos de experiência no setor bancário**, onde desenvolvi forte visão de negócio, responsabilidade, foco em resultados e tomada de decisão.
 
-🚀 Em transição de carreira, estou em busca da minha primeira oportunidade na área de tecnologia. Meu sonho é crescer profissionalmente atuando com desenvolvimento.
+Atualmente, curso **Análise e Desenvolvimento de Sistemas** e participo do **Bootcamp Full Stack da Generation**, com atuação intensa em **projetos práticos**, desenvolvimento de **APIs**, **aplicações web** e soluções voltadas para problemas reais do mercado.
 
-💻 Tenho praticado bastante com projetos próprios, estudando diariamente HTML, CSS, JavaScript, Python e React;
-Em breve, estarei publicando tudo por aqui.
+Tenho como objetivo ingressar no mercado de tecnologia como **desenvolvedor**, evoluir rapidamente e **agregar valor ao time desde o primeiro dia**, unindo minha bagagem corporativa com habilidades técnicas em constante evolução.
 
+Sou disciplinado, proativo e estou sempre buscando aprender, melhorar e entregar código com qualidade.
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/cesarhennrique">
+    <img src="https://img.shields.io/badge/GitHub-CESARHENNRIQUE-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/cesarhennrique/">
+    <img src="https://img.shields.io/badge/LinkedIn-Cesar%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+---
 
-  - 💬 Tenho 29 anos e atualmente moro em Recife/PE.
-    
-  - 📚 Gosto muito de aprender! No tempo livre, aproveito para ler livros, praticar esportes, assistir filmes. Acredito que nossos interesses pessoais enriquecem nossa visão de mundo e nossa capacidade de resolver problemas de forma criativa. \o/
-</details>
+## 🧠 O que eu faço
 
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.cesarhenrique)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarhennrique/)
+- 🏗️ Desenvolvimento de aplicações web e APIs REST
+- ⚡ Criação de CRUDs e regras de negócio
+- 🧩 Organização de código e boas práticas
+- 🔐 Autenticação e segurança básica de APIs
+- 📊 Integração com banco de dados
+- 🤝 Trabalho em equipe e projetos colaborativos
+- 🎓 Aprendizado contínuo em desenvolvimento Full Stack
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarhennrique&show_icons=true&theme=dracula)
+---
 
-<!-- Portfolio -->
-## Portfolio:
-<p>Em progresso...</p>
-<!-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization) -->
+## 🛠️ Tecnologias
 
+### Front-end
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </div>
-  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
+### Back-end
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cesarhennrique&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarhennrique&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Filosofia
+
+> _"Tecnologia é mais do que código.  
+> É sobre resolver problemas reais, aprender constantemente e gerar valor através de soluções bem construídas."_
+
+---
+
+⭐ Se curtir algum projeto, não esquece de deixar uma estrela  
+🤝 Sempre aberto a oportunidades, conexões e novos desafios
