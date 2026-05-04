@@ -1,16 +1,23 @@
-# Olá 👋, eu sou Cesar Henrique
+Olá 👋, eu sou Cesar Henrique.
 
-🚀 **Desenvolvedor Full Stack**  
+Sou desenvolvedor Full Stack, com mais de 7 anos de experiência no setor bancário, onde desenvolvi forte visão de negócio, foco em resultados e tomada de decisão sob pressão.
 
-Sou um profissional em **transição de carreira para tecnologia**, trazendo comigo **mais de 7 anos de experiência no setor bancário**, onde desenvolvi forte visão de negócio, responsabilidade, foco em resultados e tomada de decisão.
+Hoje, aplico essa bagagem na construção de produtos digitais reais.
 
-Atualmente, curso **Análise e Desenvolvimento de Sistemas** e participo do **Bootcamp Full Stack da Generation**, com atuação intensa em **projetos práticos**, desenvolvimento de **APIs**, **aplicações web** e soluções voltadas para problemas reais do mercado.
+Atuo com tecnologias como React, TypeScript, Node.js e PostgreSQL, desenvolvendo aplicações completas — do front ao back — sempre com foco em performance, usabilidade e escalabilidade.
 
-Tenho como objetivo ingressar no mercado de tecnologia como **desenvolvedor**, evoluir rapidamente e **agregar valor ao time desde o primeiro dia**, unindo minha bagagem corporativa com habilidades técnicas em constante evolução.
+Atualmente, construo projetos próprios, incluindo um SaaS de gestão de estoque voltado para pequenos negócios, resolvendo problemas reais como:
 
-Sou disciplinado, proativo e estou sempre buscando aprender, melhorar e entregar código com qualidade.
+Falta de controle de produtos
+Perda por validade
+Dificuldade na gestão de vendas
 
----
+Mais do que escrever código, meu foco é desenvolver soluções que geram impacto.
+
+Busco minha primeira oportunidade como desenvolvedor, onde eu possa contribuir desde o início, evoluir rapidamente e crescer junto com o time.
+
+📌 Foco: Desenvolvimento de aplicações web e produtos digitais
+📌 Aberto a oportunidades remotas
 
 ## 🌐 Onde me encontrar
 
@@ -20,8 +27,11 @@ Sou disciplinado, proativo e estou sempre buscando aprender, melhorar e entregar
   </a>
   <a href="https://www.linkedin.com/in/cesarhennrique/">
     <img src="https://img.shields.io/badge/LinkedIn-Cesar%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
+
+<a href="https://cesarhenriquedeveloper.com.br/">
+    <img src="https://img.shields.io/badge/-PORTIFOLIO-181717?style=for-the-badge&logo=" />
+  </a>
 
 ---
 
@@ -61,18 +71,6 @@ Sou disciplinado, proativo e estou sempre buscando aprender, melhorar e entregar
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cesarhennrique&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cesarhennrique&layout=compact&theme=tokyonight" />
-</p>
-
-
-
 
 ---
 
